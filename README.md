@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kingsley Freeman</h1>
+<h1 align="center">Hi 👋, I'm Sena Freeman</h1>
 <h3 align="center">A passionate web developer from Ghana</h3>
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, and RESTful APIs**
